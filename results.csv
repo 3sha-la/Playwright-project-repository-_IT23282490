@@ -1,0 +1,107 @@
+TC ID,Input,Expected Output,Actual Output,Status,Accuracy justification
+"Pos_Fun_0001","Mama oyaata godak aadhareyi.","මම ඔයාට ගොඩක් ආදරෙයි.","Mama oyaata godak aadhareyi.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0002","Mama ehenam gihillaa ennam.","මම එහෙනම් ගිහිල්ලා එන්නම්.","Mama ehenam gihillaa ennam.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0003","bada pirenna kanna ooni.","බඩ පිරෙන්න කන්න ඕනි.","bada pirenna kanna ooni.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0004","magee oluva kaekkuma thaama adu nae.","මගේ ඔලුව කැක්කුම තාම අඩු නැ.","magee oluva kaekkuma thaama adu nae.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0005","Salli dhenna kalin bill eka dhenna.","සල්ලි දෙන්න කලින් bill එක දෙන්න.","Salli dhenna kalin bill eka dhenna.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0006","Train eka parakku unoth mama enne nae.","Train එක පරක්කු උනොත් මම එන්නෙ නැ.","Train eka parakku unoth mama enne nae.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0007","Mata poddak nidhahase inna dhenna.","මට පොඩ්ඩක් නිදහසේ ඉන්න දෙන්න.","Mata poddak nidhahase inna dhenna.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0008","kathaava kiyavalaa ivara velaa vaeda karanna.","කතාව කියවලා ඉවර වෙලා වැඩ කරන්න.","kathaava kiyavalaa ivara velaa vaeda karanna.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0009","Adha vaessa nisaa apita matches thibbe nae.","අද වැස්ස නිසා අපිට matches තිබ්බෙ නැ.","Adha vaessa nisaa apita matches thibbe nae.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0010","Mama bus ekee ennam.","මම bus එකේ එන්නම්.","Mama bus ekee ennam.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0011","Mata adha amaaruyi uNa haedhilaa.","මට අද අමාරුයි උණ හැදිලා.","Mata adha amaaruyi uNa haedhilaa.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0012","Mama meeting eka ivara velaa kathaa karannam.","මම meeting එක ඉවර වෙලා කතා කරන්නම්.","Mama meeting eka ivara velaa kathaa karannam.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0013","Jaffna yanna kochchara velaa yanavadha?","Jaffna යන්න කොච්චර වෙලා යනවද?","Jaffna yanna kochchara velaa yanavadha?","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0014","Lecture eka heta thiyanavadha?","Lecture එක හෙට තියනවද?","Lecture eka heta thiyanavadha?","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0015","Meeka kochchara venavadha?","මේක කොච්චර වෙනවද?","Meeka kochchara venavadha?","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0016","Mama adha redhi heedhuvaa saha veeLuvaa.","මම අද රෙදි හේදුවා සහ වේළුවා.","Mama adha redhi heedhuvaa saha veeLuvaa.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0017","pansala lassanata thiyanavaa.","පන්සල ලස්සනට තියනවා.","pansala lassanata thiyanavaa.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0018","magee phone eka kaedunanee","මගේ phone එක කැඩුනනේ","magee phone eka kaedunanee","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0019","Mallita potha dhenna.","මල්ලිට පොත දෙන්න.","Mallita potha dhenna.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0020","vaessoth apita gamana yanna venne nae.","වැස්සොත් අපිට ගමන යන්න වෙන්නෙ නැ.","vaessoth apita gamana yanna venne nae.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0021","Mee kaeema eka harima rasayi.","මේ කෑම එක හරිම රසයි.","Mee kaeema eka harima rasayi.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0022","Mama hithaagena inne labana maasee colombo yanna kiyala. Ethakota apita puLuvan lassanata nivaaduva gatha karanna saha loku visheeShathvayak thiyena sThaana balanna yanna. Oyaatath maath ekka enna puLuvannam mama godak kaemathiyi. Api okkoma ekathu velaa mee gamana plan karamu ethakota leesii haemootama.","මම හිතාගෙන ඉන්නේ ලබන මාසේ colombo යන්න කියල. එතකොට අපිට පුළුවන් ලස්සනට නිවාඩුව ගත කරන්න සහ ලොකු විශේෂත්වයක් තියෙන ස්ථාන බලන්න යන්න. ඔයාටත් මාත් එක්ක එන්න පුළුවන්නම් මම ගොඩක් කැමතියි. අපි ඔක්කොම එකතු වෙලා මේ ගමන plan කරමු එතකොට ලේසී හැමෝටම.","Mama hithaagena inne labana maasee colombo yanna kiyala. Ethakota apita puLuvan lassanata nivaaduva gatha karanna saha loku visheeShathvayak thiyena sThaana balanna yanna. Oyaatath maath ekka enna puLuvannam mama godak kaemathiyi. Api okkoma ekathu velaa mee gamana plan karamu ethakota leesii haemootama.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0023","Mee kadee thiyena badu harima lassanayi saha mila aduyi. Mama adha aluth laptop ekak gaththaa. eth ekee screen eka poddak kaedilaa thiyanavaa. Mata eeka change karanna ooni nisaa mama heta kadeeta yanavaa. karuNaakara oyaatath puLuvandha maath ekka enna meeka check karanna? Salli dhenna kalin bill eka hoDHAta balanna amathaka karanna epaa.","මේ කඩේ තියෙන බඩු හරිම ලස්සනයි සහ මිල අඩුයි. මම අද අලුත් laptop එකක් ගත්තා. එත් එකේ screen එක පොඩ්ඩක් කැඩිලා තියනවා. මට ඒක change කරන්න ඕනි නිසා මම හෙට කඩේට යනවා. කරුණාකර ඔයාටත් පුළුවන්ද මාත් එක්ක එන්න මේක check කරන්න? සල්ලි දෙන්න කලින් bill එක හොඳට බලන්න අමතක කරන්න එපා.","Mee kadee thiyena badu harima lassanayi saha mila aduyi. Mama adha aluth laptop ekak gaththaa. eth ekee screen eka poddak kaedilaa thiyanavaa. Mata eeka change karanna ooni nisaa mama heta kadeeta yanavaa. karuNaakara oyaatath puLuvandha maath ekka enna meeka check karanna? Salli dhenna kalin bill eka hoDHAta balanna amathaka karanna epaa.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_Fun_0024","magee naQQgigee upan dhinaya labana sathiyee thiyanavaa. Api gedhara loku uthsavayak karanna plan karala thiyana nisaa api okකෝම hamba veala kaeema hadhamu. Ammaa kaeema hadhanavaa saha thaaththaa invitation cards tika ready karanavaa. Oyaath yaaLuvoo ekka enna kiyala mama invite karanavaa. Suba upan dhinayak veeva kiyalaa api okkoma praarThanaa karamu.","මගේ නංගිගේ උපන් දිනය ලබන සතියේ තියනවා. අපි ගෙදර ලොකු උත්සවයක් කරන්න plan කරල තියන නිසා අපි ඔක්කොම හම්බ වේල කෑම හදමු. අම්මා කෑම හදනවා සහ තාත්තා invitation cards ටික ready කරනවා. ඔයාත් යාළුවෝ එක්ක එන්න කියල මම invite කරනවා. සුබ උපන් දිනයක් වේව කියලා අපි ඔක්කොම ප්‍රාර්ථනා කරමු.","magee naQQgigee upan dhinaya labana sathiyee thiyanavaa. Api gedhara loku uthsavayak karanna plan karala thiyana nisaa api okකෝම hamba veala kaeema hadhamu. Ammaa kaeema hadhanavaa saha thaaththaa invitation cards tika ready karanavaa. Oyaath yaaLuvoo ekka enna kiyala mama invite karanavaa. Suba upan dhinayak veeva kiyalaa api okkoma praarThanaa karamu.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_001","mamaoyaatakaemathiyi.","මම ඔයාට කැමතියි.","mamaoyaatakaemathiyi.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_002","Thx mchn, c u l8r.","Thanks මචන් see you later.","Thx mchn, c u l8r.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_003","Mama   adha  campus       yanavaa.","මම අද campus යනවා.","Mama   adha  campus       yanavaa.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_004","mn kadee ynva.","මම කඩේ යනවා.","mn kadee ynva.","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_005","https://www.google.com/test","https://www.google.com/test","https://www.google.com/test","Pass",""
+"Neg_Fun_006","Café and résumé","Coffee and summary","Café and résumé","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_007","Ammmmmaaaa","අම්මා","Ammmmmaaaa","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_008","Labulu","ලබුළු","Labulu","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_009","prakruthi","ප්‍රකෘති","prakruthi","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_Fun_010","shaanthi","ශාන්තී","shaanthi","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Pos_UI_001","Mama","මම","Mama","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."
+"Neg_UI_001","hari hari","UI should show error or stop.","hari hari","Fail","• Phonetic mapping failed to trigger the correct Unicode character.
+• System latency prevented real-time transliteration updates.
+• Character sequence was not recognized by the translator engine."

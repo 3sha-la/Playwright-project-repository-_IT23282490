@@ -1,0 +1,254 @@
+[
+  {
+    "tc_id": "Pos_Fun_0001",
+    "name": "Expressing affection",
+    "input": "Mama oyaata godak aadhareyi.",
+    "expected": "මම ඔයාට ගොඩක් ආදරෙයි.",
+    "what_covered": "• Daily language usage • Simple Sentence • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0002",
+    "name": "Social Departure Phrase",
+    "input": "Mama ehenam gihillaa ennam.",
+    "expected": "මම එහෙනම් ගිහිල්ලා එන්නම්.",
+    "what_covered": "• Daily language usage • Compound structure • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0003",
+    "name": "Food/Satiety Description",
+    "input": "bada pirenna kanna ooni.",
+    "expected": "බඩ පිරෙන්න කන්න ඕනි.",
+    "what_covered": "• Daily language usage • Imperative (command) • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0004",
+    "name": "Health/Physical State",
+    "input": "magee oluva kaekkuma thaama adu nae.",
+    "expected": "මගේ ඔලුව කැක්කුම තාම අඩු නැ.",
+    "what_covered": "• Daily language usage • Pronoun variation (I/you/we/they) • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0005",
+    "name": "Financial Transaction",
+    "input": "Salli dhenna kalin bill eka dhenna.",
+    "expected": "සල්ලි දෙන්න කලින් bill එක දෙන්න.",
+    "what_covered": "• Daily language usage • Imperative (command) • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0006",
+    "name": "Complex Conditional (Travel)",
+    "input": "Train eka parakku unoth mama enne nae.",
+    "expected": "Train එක පරක්කු උනොත් මම එන්නෙ නැ.",
+    "what_covered": "• Daily language usage • Complex Sentence • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0007",
+    "name": "Request for Privacy",
+    "input": "Mata poddak nidhahase inna dhenna.",
+    "expected": "මට පොඩ්ඩක් නිදහසේ ඉන්න දෙන්න.",
+    "what_covered": "• Formatting (spaces / line breaks / paragraph) • Complex Sentence • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0008",
+    "name": "Education/Instruction",
+    "input": "kathaava kiyavalaa ivara velaa vaeda karanna.",
+    "expected": "කතාව කියවලා ඉවර වෙලා වැඩ කරන්න.",
+    "what_covered": "• Mixed Singlish + English • Compound structure • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0009",
+    "name": "Weather/Planning",
+    "input": "Adha vaessa nisaa apita matches thibbe nae.",
+    "expected": "අද වැස්ස නිසා අපිට matches තිබ්බෙ නැ.",
+    "what_covered": "• Daily language usage • Complex Sentence • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0010",
+    "name": "Daily Transit Request",
+    "input": "Mama bus ekee ennam.",
+    "expected": "මම bus එකේ එන්නම්.",
+    "what_covered": "• Daily language usage • Simple Sentence • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0011",
+    "name": "Health Status / Fever",
+    "input": "Mata adha amaaruyi uNa haedhilaa.",
+    "expected": "මට අද අමාරුයි උණ හැදිලා.",
+    "what_covered": "• Daily language usage • Simple Sentence • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0012",
+    "name": "Workplace Action",
+    "input": "Mama meeting eka ivara velaa kathaa karannam.",
+    "expected": "මම meeting එක ඉවර වෙලා කතා කරන්නම්.",
+    "what_covered": "• Daily language usage • Compound structure • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0013",
+    "name": "Travel Inquiry",
+    "input": "Jaffna yanna kochchara velaa yanavadha?",
+    "expected": "Jaffna යන්න කොච්චර වෙලා යනවද?",
+    "what_covered": "• Greeting / request / response • Interrogative • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0014",
+    "name": "Education Status",
+    "input": "Lecture eka heta thiyanavadha?",
+    "expected": "Lecture එක හෙට තියනවද?",
+    "what_covered": "• Daily language usage • Interrogative • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0015",
+    "name": "Shopping Query",
+    "input": "Meeka kochchara venavadha?",
+    "expected": "මේක කොච්චර වෙනවද?",
+    "what_covered": "• Daily language usage • Interrogative • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0016",
+    "name": "Household / Laundry",
+    "input": "Mama adha redhi heedhuvaa saha veeLuvaa.",
+    "expected": "මම අද රෙදි හේදුවා සහ වේළුවා.",
+    "what_covered": "• Daily language usage • Compound structure • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0017",
+    "name": "Cultural / Temple",
+    "input": "pansala lassanata thiyanavaa.",
+    "expected": "පන්සල ලස්සනට තියනවා.",
+    "what_covered": "• Daily language usage • Simple Sentence • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0018",
+    "name": "Technology Trouble",
+    "input": "magee phone eka kaedunanee",
+    "expected": "මගේ phone එක කැඩුනනේ",
+    "what_covered": "• Daily language usage • Simple Sentence • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0019",
+    "name": "Family Request",
+    "input": "Mallita potha dhenna.",
+    "expected": "මල්ලිට පොත දෙන්න.",
+    "what_covered": "• Daily language usage • Imperative (command) • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0020",
+    "name": "Weather Planning",
+    "input": "vaessoth apita gamana yanna venne nae.",
+    "expected": "වැස්සොත් අපිට ගමන යන්න වෙන්නෙ නැ.",
+    "what_covered": "• Daily language usage • Complex Sentence • M (31–299 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0021",
+    "name": "Dining / Taste",
+    "input": "Mee kaeema eka harima rasayi.",
+    "expected": "මේ කෑම එක හරිම රසයි.",
+    "what_covered": "• Daily language usage • Simple Sentence • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0022",
+    "name": "Travel Paragraph",
+    "input": "Mama hithaagena inne labana maasee colombo yanna kiyala. Ethakota apita puLuvan lassanata nivaaduva gatha karanna saha loku visheeShathvayak thiyena sThaana balanna yanna. Oyaatath maath ekka enna puLuvannam mama godak kaemathiyi. Api okkoma ekathu velaa mee gamana plan karamu ethakota leesii haemootama.",
+    "expected": "මම හිතාගෙන ඉන්නේ ලබන මාසේ colombo යන්න කියල. එතකොට අපිට පුළුවන් ලස්සනට නිවාඩුව ගත කරන්න සහ ලොකු විශේෂත්වයක් තියෙන ස්ථාන බලන්න යන්න. ඔයාටත් මාත් එක්ක එන්න පුළුවන්නම් මම ගොඩක් කැමතියි. අපි ඔක්කොම එකතු වෙලා මේ ගමන plan කරමු එතකොට ලේසී හැමෝටම.",
+    "what_covered": "• Daily language usage • Complex sentence • L (≥300 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0023",
+    "name": "Shopping & Product Review",
+    "input": "Mee kadee thiyena badu harima lassanayi saha mila aduyi. Mama adha aluth laptop ekak gaththaa. eth ekee screen eka poddak kaedilaa thiyanavaa. Mata eeka change karanna ooni nisaa mama heta kadeeta yanavaa. karuNaakara oyaatath puLuvandha maath ekka enna meeka check karanna? Salli dhenna kalin bill eka hoDHAta balanna amathaka karanna epaa.",
+    "expected": "මේ කඩේ තියෙන බඩු හරිම ලස්සනයි සහ මිල අඩුයි. මම අද අලුත් laptop එකක් ගත්තා. එත් එකේ screen එක පොඩ්ඩක් කැඩිලා තියනවා. මට ඒක change කරන්න ඕනි නිසා මම හෙට කඩේට යනවා. කරුණාකර ඔයාටත් පුළුවන්ද මාත් එක්ක එන්න මේක check කරන්න? සල්ලි දෙන්න කලින් bill එක හොඳට බලන්න අමතක කරන්න එපා.",
+    "what_covered": "• Daily language usage • Complex sentence • L (≥300 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Pos_Fun_0024",
+    "name": "Family Celebration Invitation",
+    "input": "magee naQQgigee upan dhinaya labana sathiyee thiyanavaa. Api gedhara loku uthsavayak karanna plan karala thiyana nisaa api okකෝම hamba veala kaeema hadhamu. Ammaa kaeema hadhanavaa saha thaaththaa invitation cards tika ready karanavaa. Oyaath yaaLuvoo ekka enna kiyala mama invite karanavaa. Suba upan dhinayak veeva kiyalaa api okkoma praarThanaa karamu.",
+    "expected": "මගේ නංගිගේ උපන් දිනය ලබන සතියේ තියනවා. අපි ගෙදර ලොකු උත්සවයක් කරන්න plan කරල තියන නිසා අපි ඔක්කොම හම්බ වේල කෑම හදමු. අම්මා කෑම හදනවා සහ තාත්තා invitation cards ටික ready කරනවා. ඔයාත් යාළුවෝ එක්ක එන්න කියල මම invite කරනවා. සුබ උපන් දිනයක් වේව කියලා අපි ඔක්කොම ප්‍රාර්ථනා කරමු.",
+    "what_covered": "• Daily language usage • Complex sentence • L (≥300 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Neg_Fun_001",
+    "name": "Stress - No Spaces",
+    "input": "mamaoyaatakaemathiyi.",
+    "expected": "මම ඔයාට කැමතියි.",
+    "what_covered": "• Formatting (spaces / line breaks / paragraph) • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_002",
+    "name": "Informal Shorthand/Slang",
+    "input": "Thx mchn, c u l8r.",
+    "expected": "Thanks මචන් see you later.",
+    "what_covered": "• Daily language usage • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_003",
+    "name": "Informal Shorthand/Slang",
+    "input": "Mama   adha  campus       yanavaa.",
+    "expected": "මම අද campus යනවා.",
+    "what_covered": "• Formatting (spaces / line breaks / paragraph) • Simple sentence • M (31–299 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_004",
+    "name": "Intentional Typo/Bad Spelling",
+    "input": "mn kadee ynva.",
+    "expected": "මම කඩේ යනවා.",
+    "what_covered": "• Typographical error handling • Present tense / Past tense / Future tense • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_005",
+    "name": "URL Integrity",
+    "input": "https://www.google.com/test",
+    "expected": "https://www.google.com/test",
+    "what_covered": "• Punctuation / numbers • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_006",
+    "name": "Accented Foreign Letters",
+    "input": "Café and résumé",
+    "expected": "Coffee and summary",
+    "what_covered": "• Punctuation / numbers • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_007",
+    "name": "Typo Handling",
+    "input": "Ammmmmaaaa",
+    "expected": "අම්මා",
+    "what_covered": "• Typographical error handling • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_008",
+    "name": "Complex Vowel 'Lu'",
+    "input": "Labulu",
+    "expected": "ලබුළු",
+    "what_covered": "• Daily language usage • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_009",
+    "name": "Complex 'Rakara' Mix",
+    "input": "prakruthi",
+    "expected": "ප්‍රකෘති",
+    "what_covered": "• Daily language usage • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Neg_Fun_010",
+    "name": "Phonetic Vowel Length Ambiguity",
+    "input": "shaanthi",
+    "expected": "ශාන්තී",
+    "what_covered": "• Daily language usage • Simple sentence • S (≤30 characters) • Robustness validation"
+  },
+  {
+    "tc_id": "Pos_UI_001",
+    "name": "Real-time Rendering Response",
+    "input": "Mama",
+    "expected": "මම",
+    "what_covered": "• Formatting (spaces / line breaks / paragraph) • (Not Applicable) • S (≤30 characters) • Accuracy validation"
+  },
+  {
+    "tc_id": "Neg_UI_001",
+    "name": "Network Interruption",
+    "input": "hari hari",
+    "expected": "UI should show error or stop.",
+    "what_covered": "• Typographical error handling • (Not Applicable) • S (≤30 characters) • Robustness validation"
+  }
+]
